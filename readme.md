@@ -1,0 +1,1 @@
+# fe can create fe project simply

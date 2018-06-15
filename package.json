@@ -1,15 +1,24 @@
 {
   "name": "fe-zone",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "bin":{
     "fe":"bin/fe",
     "fe-create":"bin/fe-create"
   },
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.com/yinsang/fe-zone#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs":{
+    "url":"https://github.com/yinsang/fe-zone/issues",
+    "email":"love1175180338@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yinsang/fe-zone.git"
+    },
   "author": "",
   "license": "ISC"
 }
