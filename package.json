@@ -1,6 +1,6 @@
 {
   "name": "fe-zone",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin":{
     "fe":"bin/fe",
     "fe-create":"bin/fe-create"
