@@ -1,6 +1,6 @@
 {
   "name": "fe-zone",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "bin":{
     "fe":"bin/fe",
     "fe-create":"bin/fe-create"
@@ -19,6 +19,9 @@
     "type": "git",
     "url": "https://github.com/yinsang/fe-zone.git"
     },
-  "author": "",
+    "keywords": [
+      "fe", "vue", "react", "angular", "zepto"
+    ],
+  "author": "yinsang",
   "license": "ISC"
 }
